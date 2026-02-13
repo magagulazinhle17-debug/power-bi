@@ -8,7 +8,7 @@ This project analyzes salary trends by years of experience using Power BI.
 
 ## How to View
 - Download the `.pbix` file and open it in Power BI Desktop
-- ![salary dashboard](salary dashboard.png)
+- ![Salary Dasboard](Salary-Dashboard)
 
 
 
